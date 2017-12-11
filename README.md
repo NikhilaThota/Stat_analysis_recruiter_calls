@@ -1,0 +1,1 @@
+Statistical analysis is used to determine if white sounding names recieve more callbacks from recruiters than the black sounding names. The sample is tested using Hypothesis testing and p value to determine how significant the differnce in the means are. Finally a story is written to see if the data provided is sufficient enough to arrive at a conclusion.
